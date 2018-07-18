@@ -2,42 +2,58 @@
   "resultCount": 51,
   "results": [
     {
-      "wrapperType": "artist",
-      "artistType": "Artist",
-      "artistName": "JAY-Z",
-      "artistLinkUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "artistId": 1352449404,
-      "amgArtistId": 195154,
-      "primaryGenreName": "Hip-Hop/Rap",
-      "primaryGenreId": 18
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 780330041,
+      "artistName": "Beyoncé",
+      "collectionName": "BEYONCÉ",
+      "collectionCensoredName": "BEYONCÉ",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/beyonc%C3%A9/780330041?uo=4",
+      "artworkUrl60":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/17/84/3a/17843a6d-1f2b-7e1e-a39f-3ff865110993/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/17/84/3a/17843a6d-1f2b-7e1e-a39f-3ff865110993/source/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 33,
+      "copyright":
+        "℗ 2013 Columbia Records, a Division of Sony Music Entertainment",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2013-12-13T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 669633097,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Magna Carta... Holy Grail",
-      "collectionCensoredName": "Magna Carta... Holy Grail",
+      "artistId": 1419227,
+      "collectionId": 1107429221,
+      "artistName": "Beyoncé",
+      "collectionName": "Lemonade",
+      "collectionCensoredName": "Lemonade",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/magna-carta-holy-grail/669633097?uo=4",
+        "https://itunes.apple.com/us/album/lemonade/1107429221?uo=4",
       "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/01/69/30/016930af-d376-ef8e-7a90-8e68435dbd56/source/60x60bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/23/c1/9e/23c19e53-783f-ae47-7212-03cc9998bd84/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/01/69/30/016930af-d376-ef8e-7a90-8e68435dbd56/source/100x100bb.jpg",
-      "collectionPrice": 13.99,
+        "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/23/c1/9e/23c19e53-783f-ae47-7212-03cc9998bd84/source/100x100bb.jpg",
+      "collectionPrice": 17.99,
       "collectionExplicitness": "explicit",
       "contentAdvisoryRating": "Explicit",
-      "trackCount": 17,
-      "copyright": "℗ 2013 S. Carter Enterprises",
+      "trackCount": 14,
+      "copyright":
+        "℗ 2016 Parkwood Entertainment LLC, under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2013-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2016-04-25T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
@@ -69,392 +85,234 @@
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1256675529,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "4:44",
-      "collectionCensoredName": "4:44",
+      "artistId": 1419227,
+      "collectionId": 939779719,
+      "artistName": "Beyoncé",
+      "collectionName": "BEYONCÉ (More Only) - EP",
+      "collectionCensoredName": "BEYONCÉ (More Only) - EP",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/4-44/1256675529?uo=4",
+        "https://itunes.apple.com/us/album/beyonc%C3%A9-more-only-ep/939779719?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music117/v4/95/99/bc/9599bce1-003a-da13-5bea-b54ec5efa1c9/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/1d/2a/2a/1d2a2a27-e85b-187e-6ced-023528c9e506/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music117/v4/95/99/bc/9599bce1-003a-da13-5bea-b54ec5efa1c9/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
+        "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/1d/2a/2a/1d2a2a27-e85b-187e-6ced-023528c9e506/source/100x100bb.jpg",
+      "collectionPrice": 8.99,
       "collectionExplicitness": "explicit",
       "contentAdvisoryRating": "Explicit",
-      "trackCount": 10,
+      "trackCount": 16,
       "copyright":
-        "℗ 2017 S. Carter Enterprises, LLC. Marketed By Roc Nation & Distributed By Roc Nation/UMG Recordings Inc.",
+        "℗ 2014  Columbia Records, a Division of Sony Music Entertainment/(c) 2014 Parkwood Production Media, LLC",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2017-07-07T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2014-11-24T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 268633751,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Reasonable Doubt",
-      "collectionCensoredName": "Reasonable Doubt",
+      "artistId": 1419227,
+      "collectionId": 626204707,
+      "artistName": "Beyoncé",
+      "collectionName": "4 (Expanded Edition)",
+      "collectionCensoredName": "4 (Expanded Edition)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/reasonable-doubt/268633751?uo=4",
+        "https://itunes.apple.com/us/album/4-expanded-edition/626204707?uo=4",
       "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c4/17/4d/c4174d50-43f3-46b1-2684-84aa1b8d5833/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/96/b5/28/96b5280d-379c-af56-a0f5-1825b7a411b4/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c4/17/4d/c4174d50-43f3-46b1-2684-84aa1b8d5833/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 15,
-      "copyright": "℗ 1996 Roc-a-fella",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "1996-06-25T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 358057502,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Black Album",
-      "collectionCensoredName": "The Black Album",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-black-album/358057502?uo=4",
-      "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/7e/0a/81/7e0a810e-3604-a85a-79ab-3d6e9da9785e/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/7e/0a/81/7e0a810e-3604-a85a-79ab-3d6e9da9785e/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/96/b5/28/96b5280d-379c-af56-a0f5-1825b7a411b4/source/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "notExplicit",
       "trackCount": 14,
       "copyright":
-        "℗ 2003 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "℗ 2011, 2012 Columbia Records, a Division of Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2003-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2013-03-29T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 204509084,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Kingdom Come",
-      "collectionCensoredName": "Kingdom Come",
+      "artistId": 1419227,
+      "collectionId": 296016891,
+      "artistName": "Beyoncé",
+      "collectionName": "I Am... Sasha Fierce",
+      "collectionCensoredName": "I Am... Sasha Fierce",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/kingdom-come/204509084?uo=4",
+        "https://itunes.apple.com/us/album/i-am-sasha-fierce/296016891?uo=4",
       "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/0c/86/e5/0c86e567-b24d-8fe3-62b1-4347f59bc642/source/60x60bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/1b/93/48/1b9348ed-c859-5ac0-c040-b54d0ec5bc50/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/0c/86/e5/0c86e567-b24d-8fe3-62b1-4347f59bc642/source/100x100bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/1b/93/48/1b9348ed-c859-5ac0-c040-b54d0ec5bc50/source/100x100bb.jpg",
       "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 14,
-      "copyright":
-        "℗ 2006 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 12,
+      "copyright": "℗ 2008 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2006-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2008-11-18T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 413098,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Vol. 2... Hard Knock Life",
-      "collectionCensoredName": "Vol. 2... Hard Knock Life",
+      "artistId": 1419227,
+      "collectionId": 201274359,
+      "artistName": "Beyoncé",
+      "collectionName": "Dangerously in Love",
+      "collectionCensoredName": "Dangerously in Love",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/vol-2-hard-knock-life/413098?uo=4",
+        "https://itunes.apple.com/us/album/dangerously-in-love/201274359?uo=4",
       "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/92/bb/41/92bb4134-80d0-3cde-6860-27a350c4934c/source/60x60bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/18/93/6d/18936d85-8f6b-7597-87ef-62c4c5211298/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/92/bb/41/92bb4134-80d0-3cde-6860-27a350c4934c/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 14,
-      "copyright":
-        "℗ 1998 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "1998-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 182601259,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & LINKIN PARK",
-      "collectionName": "Collision Course - EP",
-      "collectionCensoredName": "Collision Course - EP",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/collision-course-ep/182601259?uo=4",
-      "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/58/5e/ff/585eff1e-b4d6-61d0-4b23-ebf4fe0cc30a/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/58/5e/ff/585eff1e-b4d6-61d0-4b23-ebf4fe0cc30a/source/100x100bb.jpg",
-      "collectionPrice": 5.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 6,
-      "copyright":
-        "℗ 2004 Warner Bros. Records Inc. and Roc-A-Fella Records, LLC.",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2004-11-30T08:00:00Z",
-      "primaryGenreName": "Alternative"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 185731554,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & LINKIN PARK",
-      "collectionName": "Collision Course (Deluxe Version)",
-      "collectionCensoredName": "Collision Course (Deluxe Version)",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/collision-course-deluxe-version/185731554?uo=4",
-      "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/1f/5f/69/1f5f6936-eec0-ef3f-fe9f-830c9b1a3c9a/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/1f/5f/69/1f5f6936-eec0-ef3f-fe9f-830c9b1a3c9a/source/100x100bb.jpg",
-      "collectionPrice": 14.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 7,
-      "copyright":
-        "℗ 2004 Warner Bros. Records Inc. and Roc-A-Fella Records, LLC.",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2004-11-30T08:00:00Z",
-      "primaryGenreName": "Alternative"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 403824283,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Hits Collection, Vol. One (Deluxe Edition)",
-      "collectionCensoredName":
-        "The Hits Collection, Vol. One (Deluxe Edition)",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-hits-collection-vol-one-deluxe-edition/403824283?uo=4",
-      "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/74/73/8b/74738b80-0d86-aad8-6fbd-f0ee48962be0/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/74/73/8b/74738b80-0d86-aad8-6fbd-f0ee48962be0/source/100x100bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/18/93/6d/18936d85-8f6b-7597-87ef-62c4c5211298/source/100x100bb.jpg",
       "collectionPrice": 12.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 19,
-      "copyright": "℗ 2010 Roc-A-Fella Records, LLC",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 15,
+      "copyright": "℗ 2003 J Records, 2003 Sony Music Entertainment Inc.",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2010-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2003-06-24T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 415767,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "MTV Unplugged: Jay-Z (Live)",
-      "collectionCensoredName": "MTV Unplugged: Jay-Z (Live)",
+      "artistId": 1419227,
+      "collectionId": 780519939,
+      "artistName": "Beyoncé",
+      "collectionName": "Beyoncé (Deluxe)",
+      "collectionCensoredName": "Beyoncé (Deluxe)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/mtv-unplugged-jay-z-live/415767?uo=4",
+        "https://itunes.apple.com/us/album/beyonc%C3%A9-deluxe/780519939?uo=4",
       "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ec/01/7f/ec017ff1-04d1-c4ff-9ff4-774e3bc2199e/source/60x60bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/c7/4d/6f/c74d6f5a-c6fc-2358-a1b4-0b0cb610b6ec/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ec/01/7f/ec017ff1-04d1-c4ff-9ff4-774e3bc2199e/source/100x100bb.jpg",
-      "collectionPrice": 7.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 13,
+        "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/c7/4d/6f/c74d6f5a-c6fc-2358-a1b4-0b0cb610b6ec/source/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "contentAdvisoryRating": "Clean",
+      "trackCount": 33,
       "copyright":
-        "℗ 2001 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "℗ 2013 Columbia Records, a Division of Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2001-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2013-12-13T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 384373,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "In My Lifetime, Vol. 1",
-      "collectionCensoredName": "In My Lifetime, Vol. 1",
+      "artistId": 1419227,
+      "collectionId": 1107424887,
+      "artistName": "Beyoncé",
+      "collectionName": "Lemonade",
+      "collectionCensoredName": "Lemonade",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/in-my-lifetime-vol-1/384373?uo=4",
+        "https://itunes.apple.com/us/album/lemonade/1107424887?uo=4",
       "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/4b/5b/a2/4b5ba291-5a74-4cb1-c5e0-0d1416782c73/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music60/v4/3f/a4/50/3fa450bb-4867-9080-28ac-ac2ad45eeb0c/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/4b/5b/a2/4b5ba291-5a74-4cb1-c5e0-0d1416782c73/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music60/v4/3f/a4/50/3fa450bb-4867-9080-28ac-ac2ad45eeb0c/source/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "contentAdvisoryRating": "Clean",
       "trackCount": 14,
       "copyright":
-        "℗ 1997 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "℗ 2016 Parkwood Entertainment LLC, under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "1997-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2016-04-25T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 940905324,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Live In Brooklyn",
-      "collectionCensoredName": "Live In Brooklyn",
+      "artistId": 1419227,
+      "collectionId": 218965111,
+      "artistName": "Beyoncé & Shakira",
+      "collectionName": "Beautiful Liar - EP",
+      "collectionCensoredName": "Beautiful Liar - EP",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/live-in-brooklyn/940905324?uo=4",
+        "https://itunes.apple.com/us/album/beautiful-liar-ep/218965111?uo=4",
       "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/74/62/3d/74623da1-9d28-7d0f-4406-3ae07fa6e514/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/b6/95/64/b6956433-194b-9ec8-661a-66bd3a29eb6c/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/74/62/3d/74623da1-9d28-7d0f-4406-3ae07fa6e514/source/100x100bb.jpg",
-      "collectionPrice": 14.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 16,
-      "copyright":
-        "℗ 2012 S. Carter Enterprises, LLC. Manufactured by Def Jam Recordings, A Division of UMG Recordings, Inc, Distributed by Universal Music Distribution. All Rights Reserved.",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/b6/95/64/b6956433-194b-9ec8-661a-66bd3a29eb6c/source/100x100bb.jpg",
+      "collectionPrice": 2.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 4,
+      "copyright": "℗ 2007 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2012-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2007-03-20T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 7314794,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & R. Kelly",
-      "collectionName": "The Best of Both Worlds",
-      "collectionCensoredName": "The Best of Both Worlds",
+      "artistId": 1419227,
+      "collectionId": 261707051,
+      "artistName": "Beyoncé",
+      "collectionName": "B'Day (Deluxe Edition)",
+      "collectionCensoredName": "B'Day (Deluxe Edition)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-best-of-both-worlds/7314794?uo=4",
+        "https://itunes.apple.com/us/album/bday-deluxe-edition/261707051?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/ea/e5/43/eae54387-7061-9438-3f57-99c1dd3dd39b/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/6c/fc/6a/6cfc6a13-0633-f96b-9d72-cf56774beb4b/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/ea/e5/43/eae54387-7061-9438-3f57-99c1dd3dd39b/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 13,
-      "copyright":
-        "℗ 2002 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/6c/fc/6a/6cfc6a13-0633-f96b-9d72-cf56774beb4b/source/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 23,
+      "copyright": "℗ 2006, 2007 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2002-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2007-05-29T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 136209,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Dynasty - Roc La Familia 2000",
-      "collectionCensoredName": "The Dynasty - Roc La Familia 2000",
+      "artistId": 1419227,
+      "collectionId": 296790269,
+      "artistName": "Beyoncé",
+      "collectionName": "B'Day (Deluxe)",
+      "collectionCensoredName": "B'Day (Deluxe)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-dynasty-roc-la-familia-2000/136209?uo=4",
+        "https://itunes.apple.com/us/album/bday-deluxe/296790269?uo=4",
       "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4e/05/4e/4e054eca-73e8-f9e4-7f24-b78a27334ab5/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/d5/61/55/d5615531-04b0-bb85-b650-5f3ec781a1c2/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4e/05/4e/4e054eca-73e8-f9e4-7f24-b78a27334ab5/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 16,
-      "copyright":
-        "℗ 2000 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2000-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1161547343,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Blueprint",
-      "collectionCensoredName": "The Blueprint",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-blueprint/1161547343?uo=4",
-      "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/cb/7c/57/cb7c57c8-8c5c-6792-7df5-abf8be86fba9/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/cb/7c/57/cb7c57c8-8c5c-6792-7df5-abf8be86fba9/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/d5/61/55/d5615531-04b0-bb85-b650-5f3ec781a1c2/source/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
       "trackCount": 15,
-      "copyright": "℗ 2001 Roc-A-Fella Records, LLC",
+      "copyright": "℗ /(C) 2006 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2001-09-11T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2006-08-31T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
@@ -486,919 +344,945 @@
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 7054319,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Black Album (Acappella)",
-      "collectionCensoredName": "The Black Album (Acappella)",
+      "artistId": 1419227,
+      "collectionId": 399850850,
+      "artistName": "Beyoncé",
+      "collectionName": "I Am... World Tour",
+      "collectionCensoredName": "I Am... World Tour",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-black-album-acappella/7054319?uo=4",
+        "https://itunes.apple.com/us/album/i-am-world-tour/399850850?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music49/v4/ec/b4/cd/ecb4cd41-de23-a0f1-7c8b-f37245beefa5/source/60x60bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/87/3d/50/873d5089-5b44-f682-fce5-09266b418ba5/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music49/v4/ec/b4/cd/ecb4cd41-de23-a0f1-7c8b-f37245beefa5/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/87/3d/50/873d5089-5b44-f682-fce5-09266b418ba5/source/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 25,
+      "copyright": "℗ 2010 Sony Music Entertainment",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2010-11-26T08:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 939775882,
+      "artistName": "Beyoncé",
+      "collectionName": "BEYONCÉ (Platinum Edition)",
+      "collectionCensoredName": "BEYONCÉ (Platinum Edition)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/beyonc%C3%A9-platinum-edition/939775882?uo=4",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music5/v4/d8/2e/3d/d82e3d93-ba53-7e31-17d8-5e049a31c8ce/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music5/v4/d8/2e/3d/d82e3d93-ba53-7e31-17d8-5e049a31c8ce/source/100x100bb.jpg",
+      "collectionPrice": 24.99,
       "collectionExplicitness": "explicit",
       "contentAdvisoryRating": "Explicit",
-      "trackCount": 14,
+      "trackCount": 49,
       "copyright":
-        "℗ 2004 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "℗ 2013 Columbia Records, a Division of Sony Music Entertainment/(P) 2014  Columbia Records, a Division of Sony Music Entertainment/(c) 2013 Columbia Records, a Division of Sony Music Entertainment/(c) 2014 Parkwood Production Media, LLC",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2004-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2014-11-24T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 455406696,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & Kanye West",
-      "collectionName": "Watch the Throne (Deluxe Version)",
-      "collectionCensoredName": "Watch the Throne (Deluxe Version)",
+      "artistId": 1419227,
+      "collectionId": 318741465,
+      "artistName": "Beyoncé",
+      "collectionName": "Above and Beyoncé - Dance Mixes",
+      "collectionCensoredName": "Above and Beyoncé - Dance Mixes",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/watch-the-throne-deluxe-version/455406696?uo=4",
+        "https://itunes.apple.com/us/album/above-and-beyonc%C3%A9-dance-mixes/318741465?uo=4",
       "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/7f/89/47/7f8947df-0d24-cf68-c58c-7428af191ddf/source/60x60bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f8/46/99/f84699dc-4b4d-a0b5-fc8a-2f60849c723b/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/7f/89/47/7f8947df-0d24-cf68-c58c-7428af191ddf/source/100x100bb.jpg",
-      "collectionPrice": 11.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 16,
-      "copyright": "℗ 2011 Roc-A-Fella Records, LLC/Shawn Carter",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2011-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1081217932,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & Kanye West",
-      "collectionName": "Watch the Throne (Deluxe)",
-      "collectionCensoredName": "Watch the Throne (Deluxe)",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/watch-the-throne-deluxe/1081217932?uo=4",
-      "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/70/b8/37/70b83783-6114-964f-1112-d03bc6568a30/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/70/b8/37/70b83783-6114-964f-1112-d03bc6568a30/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f8/46/99/f84699dc-4b4d-a0b5-fc8a-2f60849c723b/source/100x100bb.jpg",
+      "collectionPrice": 6.99,
       "collectionExplicitness": "explicit",
       "contentAdvisoryRating": "Explicit",
-      "trackCount": 17,
-      "copyright":
-        "℗ 2011 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+      "trackCount": 8,
+      "copyright": "℗ 2009 Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2011-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2009-06-16T07:00:00Z",
+      "primaryGenreName": "Dance"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 3566075,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Black Album",
-      "collectionCensoredName": "The Black Album",
+      "artistId": 1419227,
+      "collectionId": 939783754,
+      "artistName": "Beyoncé",
+      "collectionName": "BEYONCÉ",
+      "collectionCensoredName": "BEYONCÉ",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-black-album/3566075?uo=4",
+        "https://itunes.apple.com/us/album/beyonc%C3%A9/939783754?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/e2/67/35/e267355a-8958-ecfe-2331-4a337596662b/source/60x60bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/22/2d/05/222d0564-188c-16de-71a0-c0892d3e299f/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/e2/67/35/e267355a-8958-ecfe-2331-4a337596662b/source/100x100bb.jpg",
-      "collectionPrice": 8.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 14,
-      "copyright":
-        "℗ 2003 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2003-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 204509228,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Kingdom Come",
-      "collectionCensoredName": "Kingdom Come",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/kingdom-come/204509228?uo=4",
-      "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/6f/d2/69/6fd269b9-a2e2-5c38-6301-9a77b099f10a/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/6f/d2/69/6fd269b9-a2e2-5c38-6301-9a77b099f10a/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 14,
-      "copyright":
-        "℗ 2006 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2006-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1081201685,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & Kanye West",
-      "collectionName": "Watch the Throne",
-      "collectionCensoredName": "Watch the Throne",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/watch-the-throne/1081201685?uo=4",
-      "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/37/6a/2e/376a2e2a-d4fc-887a-0a18-b323dcd3a4a8/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/37/6a/2e/376a2e2a-d4fc-887a-0a18-b323dcd3a4a8/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 13,
-      "copyright":
-        "℗ 2011 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2011-08-12T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 182254190,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & LINKIN PARK",
-      "collectionName": "Collision Course - EP",
-      "collectionCensoredName": "Collision Course - EP",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/collision-course-ep/182254190?uo=4",
-      "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/92/c1/db/92c1dbce-8e8a-6d8c-ab5e-2a442b33352d/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/92/c1/db/92c1dbce-8e8a-6d8c-ab5e-2a442b33352d/source/100x100bb.jpg",
-      "collectionPrice": 5.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 6,
-      "copyright":
-        "℗ 2004 Warner Bros. Records Inc. and Roc-A-Fella Records, LLC.",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2004-11-30T08:00:00Z",
-      "primaryGenreName": "Alternative"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1224232528,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Blueprint 3",
-      "collectionCensoredName": "The Blueprint 3",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-blueprint-3/1224232528?uo=4",
-      "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/89/2c/b8/892cb8d7-0f58-0235-e91a-7932f7c12d4c/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/89/2c/b8/892cb8d7-0f58-0235-e91a-7932f7c12d4c/source/100x100bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/22/2d/05/222d0564-188c-16de-71a0-c0892d3e299f/source/100x100bb.jpg",
       "collectionPrice": 10.99,
       "collectionExplicitness": "explicit",
       "contentAdvisoryRating": "Explicit",
-      "trackCount": 15,
-      "copyright":
-        "℗ 2009 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2009-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 404291421,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Hits Collection, Vol. One",
-      "collectionCensoredName": "The Hits Collection, Vol. One",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-hits-collection-vol-one/404291421?uo=4",
-      "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/ff/85/47/ff854789-fccb-5ca1-d713-8083c03cfe7a/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/ff/85/47/ff854789-fccb-5ca1-d713-8083c03cfe7a/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 14,
-      "copyright": "℗ 2010 The Island Def Jam Music Group",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2010-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1256905145,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "4:44",
-      "collectionCensoredName": "4:44",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/4-44/1256905145?uo=4",
-      "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music127/v4/03/0a/ab/030aab1e-ba09-5b8f-ada1-0d2950d90057/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music127/v4/03/0a/ab/030aab1e-ba09-5b8f-ada1-0d2950d90057/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 10,
-      "copyright":
-        "℗ 2017 S. Carter Enterprises, LLC. Markeded By Roc Nation & Distributed By Roc Nation/UMG Recordings Inc.",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2017-07-07T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 27057841,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & R. Kelly",
-      "collectionName": "Unfinished Business",
-      "collectionCensoredName": "Unfinished Business",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/unfinished-business/27057841?uo=4",
-      "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/03/72/6d/03726d4e-284a-3c14-ac19-a85053c92a32/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/03/72/6d/03726d4e-284a-3c14-ac19-a85053c92a32/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 11,
-      "copyright":
-        "℗ 2004 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2004-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 415808,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "MTV Unplugged: Jay-Z (Live)",
-      "collectionCensoredName": "MTV Unplugged: Jay-Z (Live)",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/mtv-unplugged-jay-z-live/415808?uo=4",
-      "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/6c/55/a1/6c55a182-0e0d-5d70-74aa-bec6c63e9dd1/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/6c/55/a1/6c55a182-0e0d-5d70-74aa-bec6c63e9dd1/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 13,
-      "copyright":
-        "℗ 2001 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2001-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 186088564,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & LINKIN PARK",
-      "collectionName": "Collision Course (Deluxe Version)",
-      "collectionCensoredName": "Collision Course (Deluxe Version)",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/collision-course-deluxe-version/186088564?uo=4",
-      "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/e4/42/d5/e442d596-d11f-aa34-e19e-456f1871f7ab/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/e4/42/d5/e442d596-d11f-aa34-e19e-456f1871f7ab/source/100x100bb.jpg",
-      "collectionPrice": 14.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 7,
-      "copyright":
-        "℗ 2004 Warner Bros. Records Inc. and Roc-A-Fella Records, LLC.",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2004-11-30T08:00:00Z",
-      "primaryGenreName": "Alternative"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1160505295,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Blueprint 2: The Gift & the Curse",
-      "collectionCensoredName": "The Blueprint 2: The Gift & the Curse",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-blueprint-2-the-gift-the-curse/1160505295?uo=4",
-      "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/4f/c6/52/4fc65234-2ba4-d873-d07d-33b0a6abb1a6/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/4f/c6/52/4fc65234-2ba4-d873-d07d-33b0a6abb1a6/source/100x100bb.jpg",
-      "collectionPrice": 12.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 25,
-      "copyright":
-        "℗ 2002 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2002-11-12T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 404100063,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Hits Collection, Vol. One",
-      "collectionCensoredName": "The Hits Collection, Vol. One",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-hits-collection-vol-one/404100063?uo=4",
-      "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/34/a0/d1/34a0d122-24fc-4709-fe31-f4b1342632d2/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/34/a0/d1/34a0d122-24fc-4709-fe31-f4b1342632d2/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 14,
-      "copyright": "℗ 2010 The Island Def Jam Music Group",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2010-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1081203671,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "American Gangster",
-      "collectionCensoredName": "American Gangster",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/american-gangster/1081203671?uo=4",
-      "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music69/v4/c0/69/ca/c069caec-6ef8-02b0-05a3-ab46fa70be17/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music69/v4/c0/69/ca/c069caec-6ef8-02b0-05a3-ab46fa70be17/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 15,
-      "copyright":
-        "℗ 2007 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2007-11-06T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 404213594,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName":
-        "The Hits Collection, Vol. One (Deluxe Edition with Videos)",
-      "collectionCensoredName":
-        "The Hits Collection, Vol. One (Deluxe Edition with Videos)",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-hits-collection-vol-one-deluxe-edition-with-videos/404213594?uo=4",
-      "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4f/27/9b/4f279bab-7ecd-ed50-c981-2fe298c6c1dc/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4f/27/9b/4f279bab-7ecd-ed50-c981-2fe298c6c1dc/source/100x100bb.jpg",
-      "collectionPrice": 17.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 25,
-      "copyright": "℗ 2010 Roc-A-Fella Records, LLC",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2010-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 138686,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Vol. 2: Hard Knock Life",
-      "collectionCensoredName": "Vol. 2: Hard Knock Life",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/vol-2-hard-knock-life/138686?uo=4",
-      "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/a0/15/bb/a015bbd1-fcf6-dbd3-89ea-531546a6fa53/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/a0/15/bb/a015bbd1-fcf6-dbd3-89ea-531546a6fa53/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
       "trackCount": 14,
       "copyright":
-        "℗ 1998 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "℗ 2013 Columbia Records, a Division of Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "1998-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2014-11-24T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 148662,
-      "collectionId": 32186384,
-      "amgArtistId": 447095,
-      "artistName": "LINKIN PARK & JAY-Z",
-      "collectionName":
-        "MTV Ultimate Mash-Ups Presents: Collision Course - Numb / Encore - EP",
-      "collectionCensoredName":
-        "MTV Ultimate Mash-Ups Presents: Collision Course - Numb / Encore - EP",
+      "artistId": 1419227,
+      "collectionId": 519218831,
+      "artistName": "Beyoncé",
+      "collectionName": "4: The Remix",
+      "collectionCensoredName": "4: The Remix",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/linkin-park/148662?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/mtv-ultimate-mash-ups-presents-collision-course-numb/32186384?uo=4",
+        "https://itunes.apple.com/us/album/4-the-remix/519218831?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/3f/6e/4a/3f6e4ae4-298f-6295-18a9-7559d3c6109f/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/78/e2/8b/78e28b5a-7524-b319-f26d-ae8e6b011d3a/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/3f/6e/4a/3f6e4ae4-298f-6295-18a9-7559d3c6109f/source/100x100bb.jpg",
-      "collectionPrice": 5.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/78/e2/8b/78e28b5a-7524-b319-f26d-ae8e6b011d3a/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
       "trackCount": 6,
       "copyright":
-        "℗ 2004 Warner Bros. Records Inc. and Roc-A-Fella Records, LLC.",
+        "℗ 2011, 2012 Columbia Records, a Division of Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2004-11-30T08:00:00Z",
-      "primaryGenreName": "Alternative"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Compilation",
-      "artistId": 1352449404,
-      "collectionId": 140122,
-      "amgArtistId": 195154,
-      "artistName": "R. Kelly & Jay-Z",
-      "collectionName": "The Best of Both Worlds",
-      "collectionCensoredName": "The Best of Both Worlds",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-best-of-both-worlds/140122?uo=4",
-      "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/2b/be/25/2bbe258d-10c1-0c92-b387-93cd04851c5a/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/2b/be/25/2bbe258d-10c1-0c92-b387-93cd04851c5a/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 13,
-      "copyright":
-        "℗ 2002 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2002-03-19T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2012-04-23T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 384407,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "In My Lifetime, Vol. 1",
-      "collectionCensoredName": "In My Lifetime, Vol. 1",
+      "artistId": 1419227,
+      "collectionId": 295783816,
+      "artistName": "Beyoncé",
+      "collectionName": "I Am... Sasha Fierce (Deluxe Version)",
+      "collectionCensoredName": "I Am... Sasha Fierce (Deluxe Version)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/in-my-lifetime-vol-1/384407?uo=4",
+        "https://itunes.apple.com/us/album/i-am-sasha-fierce-deluxe-version/295783816?uo=4",
       "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music117/v4/ee/b3/ce/eeb3cee8-5586-080a-c7d5-b7d3724af6b3/source/60x60bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/7c/da/4e/7cda4ea5-094c-bb7a-e53d-6760b674d191/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music117/v4/ee/b3/ce/eeb3cee8-5586-080a-c7d5-b7d3724af6b3/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 14,
-      "copyright":
-        "℗ 1997 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "1997-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "Album",
-      "artistId": 312095,
-      "collectionId": 26235758,
-      "amgArtistId": 43291,
-      "artistName": "Beck, JAY-Z & Pharrell Williams",
-      "collectionName": "Frontin' on Debra (DJ Reset Mash-Up) - Single",
-      "collectionCensoredName": "Frontin' on Debra (DJ Reset Mash-Up) - Single",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/beck/312095?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/frontin-on-debra-dj-reset-mash-up-single/26235758?uo=4",
-      "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music20/v4/91/5b/d8/915bd89d-13fe-2dca-d190-bb3d4be066d7/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music20/v4/91/5b/d8/915bd89d-13fe-2dca-d190-bb3d4be066d7/source/100x100bb.jpg",
-      "collectionPrice": 1.29,
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/7c/da/4e/7cda4ea5-094c-bb7a-e53d-6760b674d191/source/100x100bb.jpg",
+      "collectionPrice": 13.99,
       "collectionExplicitness": "notExplicit",
-      "trackCount": 1,
-      "copyright": "℗ 2004 Interscope",
+      "trackCount": 20,
+      "copyright": "℗ 2008 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2004-01-01T08:00:00Z",
-      "primaryGenreName": "Alternative"
+      "releaseDate": "2008-11-17T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 136180,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Dynasty - Roc La Famila 2000",
-      "collectionCensoredName": "The Dynasty - Roc La Famila 2000",
+      "artistId": 277293880,
+      "collectionId": 358639933,
+      "amgArtistId": 1055684,
+      "artistName": "Lady Gaga & Beyoncé",
+      "collectionName": "Telephone (The Remixes)",
+      "collectionCensoredName": "Telephone (The Remixes)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/lady-gaga/277293880?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-dynasty-roc-la-famila-2000/136180?uo=4",
+        "https://itunes.apple.com/us/album/telephone-the-remixes/358639933?uo=4",
       "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/2e/0b/c5/2e0bc555-e18c-971c-5ceb-da27205315ab/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/90/07/ed/9007ed73-0a1f-6739-c331-ed757446e0f6/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/2e/0b/c5/2e0bc555-e18c-971c-5ceb-da27205315ab/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 16,
-      "copyright":
-        "℗ 2000 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/90/07/ed/9007ed73-0a1f-6739-c331-ed757446e0f6/source/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 10,
+      "copyright": "℗ 2010 Interscope Records",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2000-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2010-01-01T08:00:00Z",
+      "primaryGenreName": "Dance"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 27029447,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & R. Kelly",
-      "collectionName": "Unfinished Business",
-      "collectionCensoredName": "Unfinished Business",
+      "artistId": 1419227,
+      "collectionId": 260422427,
+      "artistName": "Beyoncé",
+      "collectionName": "Green Light Freemasons Remixes - EP",
+      "collectionCensoredName": "Green Light Freemasons Remixes - EP",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/unfinished-business/27029447?uo=4",
+        "https://itunes.apple.com/us/album/green-light-freemasons-remixes-ep/260422427?uo=4",
       "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/63/6f/02/636f0208-6644-a27c-55c6-59e6dd5a7f1d/source/60x60bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c3/79/4f/c3794f2c-be18-e637-624c-376811c2eee6/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/63/6f/02/636f0208-6644-a27c-55c6-59e6dd5a7f1d/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 11,
-      "copyright":
-        "℗ 2004 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c3/79/4f/c3794f2c-be18-e637-624c-376811c2eee6/source/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 4,
+      "copyright": "℗ 2006, 2007 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2004-01-01T08:00:00Z",
+      "releaseDate": "2007-07-27T07:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 303751275,
+      "artistName": "Beyoncé",
+      "collectionName": "Single Ladies (Put a Ring On It) [Dance Remixes]",
+      "collectionCensoredName":
+        "Single Ladies (Put a Ring On It) [Dance Remixes]",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/single-ladies-put-a-ring-on-it-dance-remixes/303751275?uo=4",
+      "artworkUrl60":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/33/1e/41/331e4145-c7d7-a06d-3216-e254dc3c3dca/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/33/1e/41/331e4145-c7d7-a06d-3216-e254dc3c3dca/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 6,
+      "copyright": "℗ 2008 SONY MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2009-02-10T08:00:00Z",
+      "primaryGenreName": "Dance"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 311092222,
+      "artistName": "Beyoncé",
+      "collectionName": "Halo (Remixes) - EP",
+      "collectionCensoredName": "Halo (Remixes) - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/halo-remixes-ep/311092222?uo=4",
+      "artworkUrl60":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/26/a1/6b/26a16b14-f6a7-ed6a-4ed1-0f4fb8a2e681/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/26/a1/6b/26a16b14-f6a7-ed6a-4ed1-0f4fb8a2e681/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ 2008, 2009 Sony Music Entertainment",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2009-04-13T07:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 214734438,
+      "artistName": "Beyoncé",
+      "collectionName": "Irreplaceable (Remixes)",
+      "collectionCensoredName": "Irreplaceable (Remixes)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/irreplaceable-remixes/214734438?uo=4",
+      "artworkUrl60":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f8/35/6d/f8356dcf-ccc0-4d16-d07b-ba68927271a2/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f8/35/6d/f8356dcf-ccc0-4d16-d07b-ba68927271a2/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 7,
+      "copyright": "℗ 2006, 2007 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2007-02-13T08:00:00Z",
       "primaryGenreName": "R&B/Soul"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1160507710,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Blueprint",
-      "collectionCensoredName": "The Blueprint",
+      "artistId": 1419227,
+      "collectionId": 322994340,
+      "artistName": "Beyoncé",
+      "collectionName": "Ego / Sweet Dreams (Singles & Dance Mixes)",
+      "collectionCensoredName": "Ego / Sweet Dreams (Singles & Dance Mixes)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-blueprint/1160507710?uo=4",
+        "https://itunes.apple.com/us/album/ego-sweet-dreams-singles-dance-mixes/322994340?uo=4",
       "artworkUrl60":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/fc/52/32/fc52321a-42ed-cf68-1273-968c8023f5b7/source/60x60bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/af/50/19/af5019f4-06f0-a31e-d7a5-c0dd8ad5567c/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/fc/52/32/fc52321a-42ed-cf68-1273-968c8023f5b7/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 15,
-      "copyright": "℗ 2001 Roc-A-Fella Records, LLC",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/af/50/19/af5019f4-06f0-a31e-d7a5-c0dd8ad5567c/source/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 6,
+      "copyright": "℗ 2008, 2009 Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2001-09-11T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2009-07-21T07:00:00Z",
+      "primaryGenreName": "Dance"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 268930924,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "American Gangster (Acappella)",
-      "collectionCensoredName": "American Gangster (Acappella)",
+      "artistId": 1419227,
+      "collectionId": 262342340,
+      "artistName": "Beyoncé",
+      "collectionName": "Video Triple Play",
+      "collectionCensoredName": "Video Triple Play",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/american-gangster-acappella/268930924?uo=4",
+        "https://itunes.apple.com/us/album/video-triple-play/262342340?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music49/v4/b5/2e/6c/b52e6cad-b7b4-20ee-e232-31a14fb2f97d/source/60x60bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/0f/f8/94/0ff894fb-bdbf-8ce5-61ea-5a5a4bf30890/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music49/v4/b5/2e/6c/b52e6cad-b7b4-20ee-e232-31a14fb2f97d/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 15,
-      "copyright":
-        "℗ 2007 S. Carter Enterprises, LLC. Distributed by Roc Nation",
-      "country": "USA",
-      "currency": "USD",
-      "releaseDate": "2007-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
-    },
-    {
-      "wrapperType": "collection",
-      "collectionType": "MaxiSingle",
-      "artistId": 1352449404,
-      "collectionId": 1298881,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Hard Knock Life - EP",
-      "collectionCensoredName": "Hard Knock Life - EP",
-      "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
-      "collectionViewUrl":
-        "https://itunes.apple.com/us/album/hard-knock-life-ep/1298881?uo=4",
-      "artworkUrl60":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/26/cc/8d/26cc8dc6-d517-90e6-f6fe-f720d34e2d03/source/60x60bb.jpg",
-      "artworkUrl100":
-        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/26/cc/8d/26cc8dc6-d517-90e6-f6fe-f720d34e2d03/source/100x100bb.jpg",
-      "collectionPrice": 2.99,
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/0f/f8/94/0ff894fb-bdbf-8ce5-61ea-5a5a4bf30890/source/100x100bb.jpg",
+      "collectionPrice": 5.97,
       "collectionExplicitness": "notExplicit",
       "trackCount": 3,
-      "copyright":
-        "℗ 1999 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+      "copyright": "℗ (C) 2007 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "1999-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2007-09-04T07:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1160499590,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Blueprint 2: The Gift & the Curse",
-      "collectionCensoredName": "The Blueprint 2: The Gift & the Curse",
+      "artistId": 1419227,
+      "collectionId": 262047753,
+      "artistName": "Beyoncé",
+      "collectionName": "Irreemplazable",
+      "collectionCensoredName": "Irreemplazable",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-blueprint-2-the-gift-the-curse/1160499590?uo=4",
+        "https://itunes.apple.com/us/album/irreemplazable/262047753?uo=4",
       "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/94/e4/2d/94e42ddc-f7ce-9229-eb06-cf9277440fa8/source/60x60bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/bf/41/a8/bf41a8eb-ad48-2b44-cfbe-34d178c4a151/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/94/e4/2d/94e42ddc-f7ce-9229-eb06-cf9277440fa8/source/100x100bb.jpg",
-      "collectionPrice": 12.99,
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/bf/41/a8/bf41a8eb-ad48-2b44-cfbe-34d178c4a151/source/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 8,
+      "copyright": "℗ 2007 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2007-08-27T07:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 159761791,
+      "artistName": "Beyoncé",
+      "collectionName": "Check On It (feat. Bun B & Slim Thug) - EP",
+      "collectionCensoredName": "Check On It (feat. Bun B & Slim Thug) - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/check-on-it-feat-bun-b-slim-thug-ep/159761791?uo=4",
+      "artworkUrl60":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/85/d6/31/85d631a8-7400-566f-5e49-86a6d0fee77a/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/85/d6/31/85d631a8-7400-566f-5e49-86a6d0fee77a/source/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 6,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-02-21T08:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 303141043,
+      "artistName": "Beyoncé",
+      "collectionName": "If I Were a Boy (Dance Mixes, Vol. I)",
+      "collectionCensoredName": "If I Were a Boy (Dance Mixes, Vol. I)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/if-i-were-a-boy-dance-mixes-vol-i/303141043?uo=4",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/9d/75/22/9d75221e-54e8-3f12-ea45-0b96b3e388d5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/9d/75/22/9d75221e-54e8-3f12-ea45-0b96b3e388d5/source/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 7,
+      "copyright": "℗ 2008 SONY MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2009-02-03T08:00:00Z",
+      "primaryGenreName": "Dance"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 939780552,
+      "artistName": "Beyoncé",
+      "collectionName": "BEYONCÉ [Platinum Edition]",
+      "collectionCensoredName": "BEYONCÉ [Platinum Edition]",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/beyonc%C3%A9-platinum-edition/939780552?uo=4",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/50/b7/6f/50b76fde-3c33-2ae6-6804-5364fd3e4c88/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/50/b7/6f/50b76fde-3c33-2ae6-6804-5364fd3e4c88/source/100x100bb.jpg",
+      "collectionPrice": 24.99,
       "collectionExplicitness": "cleaned",
       "contentAdvisoryRating": "Clean",
-      "trackCount": 25,
+      "trackCount": 49,
       "copyright":
-        "℗ 2002 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "℗ 2013 Columbia Records, a Division of Sony Music Entertainment/(P) 2014  Columbia Records, a Division of Sony Music Entertainment/(c) 2013 Columbia Records, a Division of Sony Music Entertainment/(c) 2014 Parkwood Production Media, LLC",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2002-11-12T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2014-11-24T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1224237271,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "The Blueprint 3",
-      "collectionCensoredName": "The Blueprint 3",
+      "artistId": 1419227,
+      "collectionId": 303140449,
+      "artistName": "Beyoncé",
+      "collectionName": "If I Were a Boy (Dance Mixes, Vol. II)",
+      "collectionCensoredName": "If I Were a Boy (Dance Mixes, Vol. II)",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/the-blueprint-3/1224237271?uo=4",
+        "https://itunes.apple.com/us/album/if-i-were-a-boy-dance-mixes-vol-ii/303140449?uo=4",
       "artworkUrl60":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/d4/e5/ca/d4e5caa8-a837-fc98-ad37-3c40bcb3c3c1/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/d4/5c/f1/d45cf130-9c91-01be-05ed-2b1373588355/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/d4/e5/ca/d4e5caa8-a837-fc98-ad37-3c40bcb3c3c1/source/100x100bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/d4/5c/f1/d45cf130-9c91-01be-05ed-2b1373588355/source/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 7,
+      "copyright": "℗ 2008 SONY MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2009-02-03T08:00:00Z",
+      "primaryGenreName": "Dance"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 159711925,
+      "artistName": "Beyoncé",
+      "collectionName": "Check On It (feat. Bun B & Slim Thug) [Remixes] - EP",
+      "collectionCensoredName":
+        "Check On It (feat. Bun B & Slim Thug) [Remixes] - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/check-on-it-feat-bun-b-slim-thug-remixes-ep/159711925?uo=4",
+      "artworkUrl60":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/d5/8e/d2/d58ed2a1-2d62-01b6-0e7e-a5b5f784ec02/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/d5/8e/d2/d58ed2a1-2d62-01b6-0e7e-a5b5f784ec02/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-01-31T08:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 262666032,
+      "artistName": "Beyoncé",
+      "collectionName": "Video Triple Play",
+      "collectionCensoredName": "Video Triple Play",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/video-triple-play/262666032?uo=4",
+      "artworkUrl60":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/5e/9f/a8/5e9fa8bd-7932-c000-e635-8bff84cee5a9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/5e/9f/a8/5e9fa8bd-7932-c000-e635-8bff84cee5a9/source/100x100bb.jpg",
+      "collectionPrice": 5.97,
+      "collectionExplicitness": "cleaned",
+      "contentAdvisoryRating": "Clean",
+      "trackCount": 3,
+      "copyright": "℗ (C) 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-11-21T08:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 275142595,
+      "artistName": "Beyoncé",
+      "collectionName": "Beyoncé Karaoke Hits, Vol. I",
+      "collectionCensoredName": "Beyoncé Karaoke Hits, Vol. I",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/beyonc%C3%A9-karaoke-hits-vol-i/275142595?uo=4",
+      "artworkUrl60":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/cf/6a/08/cf6a0862-0754-daf8-3283-953556526c64/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/cf/6a/08/cf6a0862-0754-daf8-3283-953556526c64/source/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 8,
+      "copyright": "℗ 2008 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2008-03-11T07:00:00Z",
+      "primaryGenreName": "Karaoke"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 939777559,
+      "artistName": "Beyoncé",
+      "collectionName": "BEYONCÉ (Platinum Edition) - EP",
+      "collectionCensoredName": "BEYONCÉ (Platinum Edition) - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/beyonc%C3%A9-platinum-edition-ep/939777559?uo=4",
+      "artworkUrl60":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6f/48/22/6f482274-4295-5181-b751-32d844cf5ca1/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6f/48/22/6f482274-4295-5181-b751-32d844cf5ca1/source/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 16,
+      "copyright":
+        "℗ 2014  Columbia Records, a Division of Sony Music Entertainment/(c) 2014 Parkwood Production Media, LLC",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2014-11-24T08:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 312246521,
+      "artistName": "Beyoncé",
+      "collectionName": "Check On It (feat. Bun B & Slim Thug) - EP",
+      "collectionCensoredName": "Check On It (feat. Bun B & Slim Thug) - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/check-on-it-feat-bun-b-slim-thug-ep/312246521?uo=4",
+      "artworkUrl60":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d1/94/73/d19473ce-3b07-81f5-6af0-31dbc571ce64/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d1/94/73/d19473ce-3b07-81f5-6af0-31dbc571ce64/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-02-07T08:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 457287869,
+      "artistName": "Beyoncé",
+      "collectionName": "Work It Out - EP",
+      "collectionCensoredName": "Work It Out - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/work-it-out-ep/457287869?uo=4",
+      "artworkUrl60":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/02/81/8b/02818b07-01f9-1b3f-216a-44691fac7ac9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/02/81/8b/02818b07-01f9-1b3f-216a-44691fac7ac9/source/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 4,
+      "copyright": "℗ 2002 Sony Music Entertainment Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2002-06-17T07:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 939780957,
+      "artistName": "Beyoncé",
+      "collectionName": "BEYONCÉ",
+      "collectionCensoredName": "BEYONCÉ",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/beyonc%C3%A9/939780957?uo=4",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/de/f6/09/def609d7-023e-3e4e-75ee-112a2d6f7123/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/de/f6/09/def609d7-023e-3e4e-75ee-112a2d6f7123/source/100x100bb.jpg",
       "collectionPrice": 10.99,
       "collectionExplicitness": "cleaned",
       "contentAdvisoryRating": "Clean",
-      "trackCount": 15,
+      "trackCount": 14,
       "copyright":
-        "℗ 2009 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "℗ 2013 Columbia Records, a Division of Sony Music Entertainment",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2009-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2014-11-24T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 26935993,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & R. Kelly",
-      "collectionName": "Big Chips - Single",
-      "collectionCensoredName": "Big Chips - Single",
+      "artistId": 1419227,
+      "collectionId": 1308765187,
+      "artistName": "Beyoncé",
+      "collectionName": "Ring the Alarm (Remixes) - EP",
+      "collectionCensoredName": "Ring the Alarm (Remixes) - EP",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/big-chips-single/26935993?uo=4",
+        "https://itunes.apple.com/us/album/ring-the-alarm-remixes-ep/1308765187?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/bb/a2/3d/bba23d04-861c-7f7a-1ce9-e892b8264a42/source/60x60bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/34/f5/7d/34f57d41-f921-0450-75e1-5192ef37e575/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/bb/a2/3d/bba23d04-861c-7f7a-1ce9-e892b8264a42/source/100x100bb.jpg",
-      "collectionPrice": 1.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/34/f5/7d/34f57d41-f921-0450-75e1-5192ef37e575/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-10-17T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 175554708,
+      "artistName": "Beyoncé",
+      "collectionName": "Déjà Vu (feat. Jay-Z) - Single",
+      "collectionCensoredName": "Déjà Vu (feat. Jay-Z) - Single",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/d%C3%A9j%C3%A0-vu-feat-jay-z-single/175554708?uo=4",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/c3/10/df/c310df5e-f296-c0cd-089c-c5854c1c164f/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/c3/10/df/c310df5e-f296-c0cd-089c-c5854c1c164f/source/100x100bb.jpg",
+      "collectionPrice": 1.98,
+      "collectionExplicitness": "notExplicit",
       "trackCount": 2,
-      "copyright":
-        "℗ 2004 Zomba Recording LLC and The Island Def Jam Music Group",
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2004-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2006-08-15T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1160506186,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Blueprint 2.1",
-      "collectionCensoredName": "Blueprint 2.1",
+      "artistId": 1419227,
+      "collectionId": 176071925,
+      "artistName": "Beyoncé",
+      "collectionName": "Deja Vu (feat. Jay-Z) - EP",
+      "collectionCensoredName": "Deja Vu (feat. Jay-Z) - EP",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/blueprint-2-1/1160506186?uo=4",
+        "https://itunes.apple.com/us/album/deja-vu-feat-jay-z-ep/176071925?uo=4",
       "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/b0/8d/bd/b08dbd5a-aff9-cf75-76bf-39b35a4336ac/source/60x60bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/14/96/1e/14961e08-0805-ab31-1fb4-3c5a011c923d/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/b0/8d/bd/b08dbd5a-aff9-cf75-76bf-39b35a4336ac/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "explicit",
-      "contentAdvisoryRating": "Explicit",
-      "trackCount": 12,
-      "copyright": "℗ 2003 S. Carter Enterprises, LLC.",
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/14/96/1e/14961e08-0805-ab31-1fb4-3c5a011c923d/source/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2003-04-08T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2006-01-01T08:00:00Z",
+      "primaryGenreName": "Pop"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 455394570,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z & Kanye West",
-      "collectionName": "Watch the Throne",
-      "collectionCensoredName": "Watch the Throne",
+      "artistId": 1419227,
+      "collectionId": 193020301,
+      "artistName": "Beyoncé",
+      "collectionName":
+        "The Star Spangled Banner (Super Bowl XXXVIII Performance) - Single",
+      "collectionCensoredName":
+        "The Star Spangled Banner (Super Bowl XXXVIII Performance) - Single",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/watch-the-throne/455394570?uo=4",
+        "https://itunes.apple.com/us/album/star-spangled-banner-super-bowl-xxxviii-performance/193020301?uo=4",
       "artworkUrl60":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/46/de/7e/46de7ec3-028f-c01e-883c-90c3da52f40d/source/60x60bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/72/ab/a4/72aba4e5-ea56-eea1-c31a-01156df4a3e7/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/46/de/7e/46de7ec3-028f-c01e-883c-90c3da52f40d/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 12,
-      "copyright": "℗ 2011 Roc-A-Fella Records, LLC/Shawn Carter",
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/72/ab/a4/72aba4e5-ea56-eea1-c31a-01156df4a3e7/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2004 Sony Music Entertainment Inc.",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2011-01-01T08:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2004-02-01T08:00:00Z",
+      "primaryGenreName": "R&B/Soul"
     },
     {
       "wrapperType": "collection",
       "collectionType": "Album",
-      "artistId": 1352449404,
-      "collectionId": 1160508884,
-      "amgArtistId": 195154,
-      "artistName": "JAY-Z",
-      "collectionName": "Blueprint 2.1",
-      "collectionCensoredName": "Blueprint 2.1",
+      "artistId": 1419227,
+      "collectionId": 196799219,
+      "artistName": "Beyoncé",
+      "collectionName": "Daddy - Single",
+      "collectionCensoredName": "Daddy - Single",
       "artistViewUrl":
-        "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
       "collectionViewUrl":
-        "https://itunes.apple.com/us/album/blueprint-2-1/1160508884?uo=4",
+        "https://itunes.apple.com/us/album/daddy-single/196799219?uo=4",
       "artworkUrl60":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/3b/25/cf/3b25cf12-4450-01ef-0f62-dfa36a9bf60c/source/60x60bb.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/35/05/7f/35057f96-67da-66a0-272b-24111dd6e7e7/source/60x60bb.jpg",
       "artworkUrl100":
-        "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/3b/25/cf/3b25cf12-4450-01ef-0f62-dfa36a9bf60c/source/100x100bb.jpg",
-      "collectionPrice": 9.99,
-      "collectionExplicitness": "cleaned",
-      "contentAdvisoryRating": "Clean",
-      "trackCount": 12,
-      "copyright":
-        "℗ 2003 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/35/05/7f/35057f96-67da-66a0-272b-24111dd6e7e7/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2003 Sony Music Entertainment Inc.",
       "country": "USA",
       "currency": "USD",
-      "releaseDate": "2003-04-08T07:00:00Z",
-      "primaryGenreName": "Hip-Hop/Rap"
+      "releaseDate": "2003-06-03T07:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 197630654,
+      "artistName": "Beyoncé",
+      "collectionName": "What's It Gonna Be - Single",
+      "collectionCensoredName": "What's It Gonna Be - Single",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/whats-it-gonna-be-single/197630654?uo=4",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/8b/55/2a/8b552a68-e961-fa95-89ab-67254b5b358e/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/8b/55/2a/8b552a68-e961-fa95-89ab-67254b5b358e/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2003 Sony Music Entertainment Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2003-07-29T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 202399050,
+      "artistName": "Beyoncé",
+      "collectionName": "Ring the Alarm (Dance Mixes) - EP",
+      "collectionCensoredName": "Ring the Alarm (Dance Mixes) - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/ring-the-alarm-dance-mixes-ep/202399050?uo=4",
+      "artworkUrl60":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/10/77/c3/1077c3aa-9716-cbe6-4355-421bbb47767c/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/10/77/c3/1077c3aa-9716-cbe6-4355-421bbb47767c/source/100x100bb.jpg",
+      "collectionPrice": 2.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 3,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-10-31T08:00:00Z",
+      "primaryGenreName": "Pop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 202683348,
+      "artistName": "Beyoncé",
+      "collectionName": "Ring the Alarm (Urban Mixes) - EP",
+      "collectionCensoredName": "Ring the Alarm (Urban Mixes) - EP",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/ring-the-alarm-urban-mixes-ep/202683348?uo=4",
+      "artworkUrl60":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f3/11/25/f3112566-d3b1-fc4b-2582-9a737e489f7c/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f3/11/25/f3112566-d3b1-fc4b-2582-9a737e489f7c/source/100x100bb.jpg",
+      "collectionPrice": 2.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 3,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-10-31T08:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 204113007,
+      "artistName": "Beyoncé",
+      "collectionName": "Krazy In Luv (Rockwilder Remix) - Single",
+      "collectionCensoredName": "Krazy In Luv (Rockwilder Remix) - Single",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/krazy-in-luv-rockwilder-remix-single/204113007?uo=4",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/53/70/2f/53702ffb-6cc3-d13a-cf9b-e710b1290596/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/53/70/2f/53702ffb-6cc3-d13a-cf9b-e710b1290596/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2003 Sony Music Entertainment Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2003-07-22T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 204556589,
+      "artistName": "Beyoncé",
+      "collectionName": "Krazy In Luv (Adam 12 So Crazy Remix) - Single",
+      "collectionCensoredName":
+        "Krazy In Luv (Adam 12 So Crazy Remix) - Single",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/krazy-in-luv-adam-12-so-crazy-remix-single/204556589?uo=4",
+      "artworkUrl60":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/ee/49/34/ee493480-732d-931a-f947-7d7ad3fec9c8/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/ee/49/34/ee493480-732d-931a-f947-7d7ad3fec9c8/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2003 Sony Music Entertainment Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2003-07-22T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 208624171,
+      "artistName": "Beyoncé",
+      "collectionName": "Crazy In Love (feat. Jay-Z) - Single",
+      "collectionCensoredName": "Crazy In Love (feat. Jay-Z) - Single",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/crazy-in-love-feat-jay-z-single/208624171?uo=4",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/2b/b6/e2/2bb6e298-509a-da4c-6af0-94095e9dc1c7/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/2b/b6/e2/2bb6e298-509a-da4c-6af0-94095e9dc1c7/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2003 Sony Music Entertainment Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2003-05-20T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1419227,
+      "collectionId": 250164676,
+      "artistName": "Beyoncé",
+      "collectionName": "Deja Vu (feat. Jay-Z) - Single",
+      "collectionCensoredName": "Deja Vu (feat. Jay-Z) - Single",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/beyonc%C3%A9/1419227?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/deja-vu-feat-jay-z-single/250164676?uo=4",
+      "artworkUrl60":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/cd/98/30/cd9830cd-0d2a-7112-9e25-7c221cb111d1/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/cd/98/30/cd9830cd-0d2a-7112-9e25-7c221cb111d1/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2006 SONY BMG MUSIC ENTERTAINMENT",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-07-25T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
     }
   ]
 }

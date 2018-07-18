@@ -6,7 +6,7 @@ class Search extends Component {
     super(props);
     this.state = {
       searchterm: " ",
-      headerterm: "beyonce"
+      headerterm: "Beyoncé"
     };
   }
 
@@ -14,7 +14,6 @@ class Search extends Component {
     e.preventDefault();
     let newSearchterm = e.target.value;
 
-    //set the searchterm in state with a new searchterm
     this.setState({
       searchterm: newSearchterm
     });
@@ -23,11 +22,17 @@ class Search extends Component {
   handleInputSubmit = e => {
     e.preventDefault();
     let searchterm = this.state.searchterm;
-    // this.props.getArtistId(searchterm);
+    let capitalizeSearchTermName = searchterm
+      .split(" ")
+      .map(item => {
+        return item[0][0].toUpperCase() + item.slice(1).toLowerCase();
+      })
+      .join(" ");
+
     this.props.onInputSubmit(searchterm);
     this.refs.artistName.value = "";
     this.setState({
-      headerterm: searchterm
+      headerterm: capitalizeSearchTermName
     });
   };
 

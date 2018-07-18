@@ -9,10 +9,11 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      searchterm: "beyonce",
+      searchterm: "Beyoncé",
+      headerterm: "Beyoncé",
       albums: []
     };
-    // this.getAlbums = this.getAlbums.bind(this);
+
     this.onInputSubmit = this.onInputSubmit.bind(this);
     this.getArtistId = this.getArtistId.bind(this);
   }
@@ -32,29 +33,34 @@ class App extends Component {
       .get("https://itunes.apple.com/search?term=" + searchterm)
 
       .then(function(response) {
-        if (response.data.results.length <= 1) {
-          swal(`${searchterm} does not exist in our database`);
-          return;
+        if (response.data.results.length === 0) {
+          swal(`${searchterm.toUpperCase()} does not exist in our database`);
         } else {
           let id = response.data.results[0].artistId;
           let url = `https://itunes.apple.com/lookup?id=${id}&entity=album`;
-          console.log(url);
+
           return axios.get(url);
         }
       })
       .then(function(response) {
-        if (JSON.stringify(response.data.results.length) <= 1) {
+        if (response.data.results.length === 1) {
           swal(
-            `${
-              response.data.results[0].artistName
-            } was found but has no albums under this search name.\nTry a different or more complete name`
+            `${response.data.results[0].artistName.toUpperCase()} was found but has no albums under this search name.\nTry a different or more complete name`
           );
-          data.forEach(item => {
+
+          data.results.forEach(item => {
             al.push(item);
           });
+          _self.setState({
+            headerterm: "Beyoncé"
+          });
         } else {
-          response.data.results.forEach(item => {
+          let results = response.data.results;
+          results.forEach(item => {
             al.push(item);
+          });
+          _self.setState({
+            headerterm: results[0].artistName
           });
         }
 
@@ -73,10 +79,11 @@ class App extends Component {
   }
 
   render() {
+    let { headerterm, albums } = this.state;
     return (
       <div>
-        <Search onInputSubmit={this.onInputSubmit} />
-        <Albums albums={this.state.albums} />
+        <Search headerterm={headerterm} onInputSubmit={this.onInputSubmit} />
+        <Albums albums={albums} />
       </div>
     );
   }
