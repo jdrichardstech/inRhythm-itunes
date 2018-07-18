@@ -1,6 +1,4 @@
-# JD Richards
-
-## inRhythm iTunes Challenge
+# JD Richards - inRhythm iTunes Challenge
 
 **As this is only for development purposes and Node.js is not included you will need to disable the Same Origin Policy in your browser:**
 
