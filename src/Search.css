@@ -1,0 +1,105 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 200px;
+  background-color: charcoal;
+  color: #fff;
+  background: no-repeat top/cover url(../assets/images/header3.jpg);
+  font: 500 16px "Roboto", sans-serif;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  margin: 0;
+  padding-top: 0px;
+  font: italic 2.5rem "Playfair Display", Serif;
+  color: yellow;
+}
+
+button {
+  height: 37px;
+  width: 80px;
+  border: 1px solid #e7222a;
+  border-radius: 5px;
+  margin: 15px 0 0 0px;
+  background: #e1222b;
+  color: #fff;
+  font-size: 0.9rem;
+}
+button:hover {
+  background-color: #711a11;
+  border: 1px solid #711a11;
+}
+
+input {
+  height: 30px;
+  width: 150px;
+  margin: 15px 15px 0 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+}
+
+form p {
+  font: 1.2rem "Roboto", sans-serif;
+}
+
+@media screen and (max-width: 1255px) {
+  .album-flow ul {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  h1 {
+    margin-top: 5%;
+    font-size: 1.7rem;
+    transition-property: font-size;
+    transition-duration: 2s;
+  }
+  h3 {
+    font-size: 1.8rem;
+  }
+  form p {
+    font: normal 1.1rem "Roboto", sans-serif;
+    padding-top: 5px;
+    transition-property: font;
+    transition-duration: 2s;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  header {
+    height: 20rem;
+  }
+  h1 {
+    margin-top: 5%;
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1.6rem;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  form p {
+    font-size: 1rem;
+  }
+  input {
+    margin: 0 0 20px 0;
+  }
+  button {
+    margin: 0 auto;
+  }
+}

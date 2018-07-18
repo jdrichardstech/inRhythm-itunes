@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#albums-container {
+  background: black;
+  font: 1rem "Source Sans Pro", Sans-Serif;
+}
