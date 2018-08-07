@@ -10,3 +10,4 @@ Safari: Choose Develop -> Disable Cross-Origin Restrictions<br />
 2.  `cd` into the directory
 3.  `npm install`<br />
 4.  `npm start`<br />
+5.  In your browser go to url address: `localhost:8080`
