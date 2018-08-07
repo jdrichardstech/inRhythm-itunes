@@ -21,7 +21,7 @@ const Albums = props => {
             />
           );
         })
-      : 'loading';
+      : 'Loading...';
   return (
     <div className="album-flow">
       <ul>{artistAlbums}</ul>
