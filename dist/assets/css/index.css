@@ -4,7 +4,12 @@ body {
   box-sizing: border-box;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+}
+
 #albums-container {
-  background: black;
-  font: 1rem "Source Sans Pro", Sans-Serif;
+  background: white;
+  font: 1rem 'Source Sans Pro', Sans-Serif;
 }

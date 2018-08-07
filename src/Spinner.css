@@ -1,0 +1,32 @@
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  height: 100%;
+  width: 100%;
+}
+#spinner {
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  height: 100%;
+  background: white;
+}
+#spinner img {
+  width: 140px;
+  height: 140px;
+}
+
+img {
+  animation: spin 4s infinite linear;
+}

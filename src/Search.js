@@ -1,12 +1,13 @@
-import React, { Component } from "react";
-import "./Search.css";
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import './Search.css';
 
 class Search extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      searchterm: " ",
-      headerterm: "Beyoncé"
+      searchterm: ' ',
+      headerterm: 'Beyoncé'
     };
   }
 
@@ -23,14 +24,14 @@ class Search extends Component {
     e.preventDefault();
     let searchterm = this.state.searchterm;
     let capitalizeSearchTermName = searchterm
-      .split(" ")
+      .split(' ')
       .map(item => {
         return item[0][0].toUpperCase() + item.slice(1).toLowerCase();
       })
-      .join(" ");
+      .join(' ');
 
     this.props.onInputSubmit(searchterm);
-    this.refs.artistName.value = "";
+    this.refs.artistName.value = '';
     this.setState({
       headerterm: capitalizeSearchTermName
     });
@@ -41,7 +42,6 @@ class Search extends Component {
     return (
       <header>
         <h1>Itunes Artist Album Covers</h1>
-        <h3>{headerterm}</h3>
 
         <form>
           <p>Enter Artist Name:</p>
@@ -54,9 +54,14 @@ class Search extends Component {
             Search
           </button>
         </form>
+        <h3>{headerterm}</h3>
       </header>
     );
   }
 }
+
+Search.propTypes = {
+  onInputSubmit: PropTypes.func
+};
 
 export default Search;
