@@ -8,7 +8,7 @@ header {
   background-color: charcoal;
   color: #fff;
   background: #333;
-  font: 500 16px 'Roboto', sans-serif;
+  font: 500 12px 'Roboto', sans-serif;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 h3 {
   margin: 0;
   padding-top: 0px;
-  font: 1.2rem 'Roboto', sans-serif;
+  font: 1rem 'Roboto', sans-serif;
   color: yellow;
 }
 
@@ -52,7 +52,7 @@ form {
 }
 
 form p {
-  font: 1.2rem 'Roboto', sans-serif;
+  font: 1.1rem 'Roboto', sans-serif;
 }
 
 @media screen and (max-width: 1255px) {
