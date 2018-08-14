@@ -27,7 +27,7 @@ class App extends Component {
   }
 
   getAlbums(searchterm) {
-    let al = [];
+    let albumsArray = [];
     axios
       .get('https://itunes.apple.com/search?term=' + searchterm)
 
@@ -48,7 +48,7 @@ class App extends Component {
           );
 
           data.results.forEach(item => {
-            al.push(item);
+            albumsArray.push(item);
           });
           this.setState({
             headerterm: 'Beyoncé'
@@ -56,19 +56,19 @@ class App extends Component {
         } else {
           let results = response.data.results;
           results.forEach(item => {
-            al.push(item);
+            albumsArray.push(item);
           });
           this.setState({
             headerterm: results[0].artistName
           });
         }
 
-        return al;
+        return albumsArray;
       })
       .then(() => {
-        al.shift();
+        albumsArray.shift();
         this.setState({
-          albums: al
+          albums: albumsArray
         });
       })
 
